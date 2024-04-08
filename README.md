@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/adityap_tweets" target="blank"><img src="https://img.shields.io/twitter/follow/adityap_tweets?logo=twitter&style=for-the-badge" alt="adityap_tweets" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs,MaterialUI,Figma**
+- 🌱 I’m currently learning **Python,React Native**
 
-- 💬 Ask me about **React,TailwindCSS,NodeJs**
+- 💬 Ask me about **Shopify ,React,NextJs & Tailwind**
 
 - 📫 How to reach me **adityaraman909@gmail.com**
 
