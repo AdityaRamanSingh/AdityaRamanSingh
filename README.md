@@ -82,11 +82,11 @@ $ ./about-me.sh --run
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityaramansingh&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaramansingh&theme=highcontrast&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaRamanSingh&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=AdityaRamanSingh&theme=highcontrast&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaramansingh&layout=compact&theme=chartreuse-dark&hide_border=true" height="165"/>
-<img src="https://github-profile-trophy.vercel.app/?username=adityaramansingh&theme=algolia&no-frame=true&row=1&column=6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaRamanSingh&layout=compact&theme=chartreuse-dark&hide_border=true" height="165"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AdityaRamanSingh&theme=algolia&no-frame=true&row=1&column=6" height="165"/>
 
 </div>
 
@@ -95,7 +95,7 @@ $ ./about-me.sh --run
 ### 🐍 CONTRIBUTION SNAKE (auto-generated)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/adityaramansingh/adityaramansingh/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+  <img src="https://raw.githubusercontent.com/AdityaRamanSingh/AdityaRamanSingh/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
 </div>
 
 > ⚙️ **Setup note:** this snake animates your real contribution graph but needs a one-time GitHub Action in this repo. Ask me and I'll generate the exact `snake.yml` workflow file for you — takes 2 minutes to wire up.
