@@ -83,7 +83,7 @@ $ ./about-me.sh --run
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AdityaRamanSingh&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=AdityaRamanSingh&theme=highcontrast&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=AdityaRamanSingh&theme=highcontrast&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaRamanSingh&layout=compact&theme=chartreuse-dark&hide_border=true" height="165"/>
 <img src="https://github-profile-trophy.vercel.app/?username=AdityaRamanSingh&theme=algolia&no-frame=true&row=1&column=6" height="165"/>
